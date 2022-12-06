@@ -23,4 +23,4 @@ To run the project, check the prerequisites below, then clone the repo and build
 ## Libraries
 *   [FireBase](https://firebase.google.com/)
 *   [CocoaPods](https://cocoapods.org/)
-*   [CLTypingLabel]([https://cocoapods.org/pods/CLTypingLabel)
+*   [CLTypingLabel](https://cocoapods.org/pods/CLTypingLabel)
